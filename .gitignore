@@ -1,0 +1,47 @@
+# Project Data & Cache
+dataset/
+cache/
+*.tgz
+*.tar.gz
+*.npy
+*.npz
+*.pkl
+*.joblib
+
+# Python Virtual Environment
+project01_venv/
+venv/
+.venv/
+env/
+
+# Python Bytecode & Temp Files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+Untitled*.ipynb
+
+# LaTeX Build Artifacts (Report/)
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
+
+# OS / Editor
+.DS_Store
+*~
+.vscode/
+.idea/
